@@ -1,0 +1,62 @@
+* {
+    margin: 0%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image-container {
+    width: 100%;
+    background-color: #FFA451;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fruit-basket {
+    padding-top: 130px;
+    padding-bottom: 7px;
+    width: 300px;
+}
+
+.main-text {
+    margin-top: 64px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    text-shadow: 0px 5px 5px rgb(182, 181, 181);
+}
+
+p {
+    font-size: 20px;
+    padding: 20px 50px 40px 50px;
+    color: #27214D;
+    font-weight: 500;
+    text-shadow: 0px 5px 5px rgb(182, 181, 181);
+}
+
+.ellipse {
+    fill: #F08626;
+    margin-bottom: 34px;
+}
+
+.btn {
+    background-color: #FFA451;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+    color: white;
+    padding: 15px 70px 15px 70px;
+    border-radius: 10px;
+}
