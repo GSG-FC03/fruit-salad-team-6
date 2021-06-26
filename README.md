@@ -23,4 +23,6 @@
 
 3- basket page:-
 
-    where ha can perform his   order and pay for it.
+    where he can perform his order and pay for it.
+ 
+ Live link: https://gsg-fc03.github.io/fruit-salad-team-6/
