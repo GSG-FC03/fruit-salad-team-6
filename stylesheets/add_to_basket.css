@@ -31,6 +31,7 @@ body {
     border-radius: 30px;
     margin: 40px 150px 30px 20px;
     padding: 10px;
+
 }
 
 .breakfast-img {
@@ -138,4 +139,7 @@ body {
 .btn-2:hover
 {
   background-color: wheat;
+}
+a{
+    text-decoration: none;
 }
