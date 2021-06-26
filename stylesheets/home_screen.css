@@ -5,7 +5,7 @@ body {
 }
 
 .top {
-    margin-top: 100px;
+    margin-top: 80px;
     margin-right: 320px;
 }
 
@@ -43,11 +43,11 @@ body {
 
 .recommended {
     display: flex;
-    margin: 0px 10px 20px 25px;
+    margin: 0px 30px 20px 25px;
 }
 
 .combo-block {
-    width: 175px;
+    width: 160px;
     margin: 10px;
     border-radius: 10px;
     display: flex;
@@ -57,8 +57,8 @@ body {
 }
 
 .combo-block-2 {
-    width: 155px;
-    height: 180px;
+    width: 145px;
+    height: 190px;
     margin: 10px;
     border-radius: 10px;
     display: flex;
@@ -81,7 +81,7 @@ h3 {
 }
 
 .like {
-    padding: 5px;
+    padding: 10px;
     display: flex;
     justify-content: flex-end;
 }
@@ -119,6 +119,13 @@ h3 {
 }
 
 .dish-viewer {
+    margin-right: 15px;
     display: flex;
-    margin-left: 150px;
+    width: 350px;
+    height: 250px;
+    overflow: scroll;
+}
+
+.temp {
+    display: flex;
 }
